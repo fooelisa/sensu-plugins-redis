@@ -10,10 +10,12 @@
 
 ## Files
  * bin/check-redis-info.rb
+ * bin/check-redis-keys.rb
  * bin/check-redis-list-length.rb
  * bin/check-redis-memory.rb
  * bin/check-redis-memory-percentage.rb
  * bin/check-redis-ping.rb
+ * bin/check-redis-set.rb
  * bin/check-redis-slave-status.rb
  * bin/extension-redis-output.rb
  * bin/metrics-redis-graphite.rb
